@@ -6,8 +6,7 @@
 }
 
 .key {
-	background-image: url('img/jess_emoji_key-26_small.png');
-	background-repeat: no-repeat;
+	background: url('img/jess_emoji_key-26_small.png') no-repeat;
 	width: 1000px;
 	height: 15%;
 	margin-left: 20px;	
