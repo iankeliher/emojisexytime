@@ -5,10 +5,22 @@
 	
 }
 
-.title {
+.key {
+	background-image: url('img/jess_emoji_key-26_small.png');
+	repeat: no-repeat;
+	width: 1000px;
+	height: 15%;
+	margin-left: 20px;	
+}
+
+.words {
 	font-family: Helvetica, Arial, sans-serif;
 	font-size: 40px;
 	margin-left: 40px;
+}
+
+.keywords {
+	font-size: 20px;
 }
 
 .body {
@@ -31,13 +43,13 @@
 }
 
 #first_conversation {
-	content: url('img/jess_animated.gif');
+	background-image: url('img/jess_animated.gif');
 }
 
 #second_conversation {
-	content: url('img/jess_shower-sex.gif');
+	background-image: url('img/jess_shower-sex.gif');
 }
 
 #third_conversation {
-	background-color: white;
+	background-image: url('img/jess_bdsm.gif');
 }
