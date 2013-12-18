@@ -7,7 +7,7 @@
 
 .key {
 	background-image: url('img/jess_emoji_key-26_small.png');
-	repeat: no-repeat;
+	background-repeat: no-repeat;
 	width: 1000px;
 	height: 15%;
 	margin-left: 20px;	
@@ -48,7 +48,6 @@
 
 #second_conversation {
 	background-image: url('img/jess_shower-sex.gif');
-	background-repeat: no-repeat;
 }
 
 #third_conversation {
